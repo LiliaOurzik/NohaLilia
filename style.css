@@ -2,6 +2,8 @@
 body {
     background-color: black;
     color: white;
+    text-align: center;
+
 }
 
 
@@ -10,6 +12,7 @@ body {
     color: #ece3e3;
     font-weight: bold;
     margin-top: 50px; /* Espace au-dessus du titre */
+    margin-bottom: 100px;
     text-align: center;
 }
 
@@ -22,3 +25,13 @@ body {
 }
 
 .flourish-embed.flourish-survey2 { margin: 0 auto; }
+
+.legende {
+    margin-top: 50px; /* Espace au-dessus du titre */
+    margin-bottom: 150px;
+}
+.texte {
+    text-align: center;
+    margin-top: 10px;
+
+}
